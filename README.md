@@ -1,7 +1,7 @@
 # game_of_life
-game of life simulator for bash shell
+game of life simulator for bash shell\n
 
-the exectutable, requirs two arguments and an input file
+the exectutable, requirs two arguments and an input file\n
 first argument : binary string representing the birth conditions
                   eg: 000100000
 second argument : binary string representing the survival conditions
